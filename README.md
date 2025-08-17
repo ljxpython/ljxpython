@@ -15,12 +15,12 @@
 ### 👋 关于我
 - 偏理想主义的测试开发工程师，主攻服务端测试
 - 擅长：自动化测试、性能测试、测试平台开发、企业级 AI 智能体
-- 目前在做：AI 测试平台与测试工程化最佳实践
+- 目前在做：AI 测试平台与测试工程化最佳实践 MCP服务赋能软件测试最佳实践
 - 欢迎合作与交流：可在本主页的 Discussions 发帖，或在任一仓库提交 Issue
 
 ### 🧰 技术栈
-- 语言与框架：Python｜PyTest｜Locust｜Flask｜TypeScript｜Vue
-- 工具与平台：GitHub Actions｜Docker｜(K8s/云)（如你有可补充）
+- 语言与框架：Python| Autogen | PyTest｜Locust｜fastapi | Flask｜TypeScript｜Vue | React
+- 工具与平台：GitHub Actions｜Docker｜(K8s/云) | 自建测试平台
 
 ### 🌟 代表性项目
 - [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（28★）
@@ -33,6 +33,7 @@
 > 想要更快了解项目？进入仓库阅读 README 的"快速开始"和"亮点与 Roadmap"。
 
 ### 🙌 开放合作与交流
+- 目前所有项目均开放源码也无任何盈利打算,欢迎和大家交流讨论
 - 在 Profile 或项目仓库开启 Discussions，欢迎你的想法/问题/建议
 - 想参与贡献？搜索 `good first issue` 和 `help wanted` 标签
 
