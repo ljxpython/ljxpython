@@ -1,0 +1,60 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 10:00（UTC+8）
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate activity section
+        run: |
+          python - <<'PY'
+          import requests, os, re
+          user = 'ljxpython'
+          repos = requests.get(
+              f'https://api.github.com/users/{user}/repos',
+              params={'per_page':100, 'sort':'updated'}
+          ).json()
+
+          # 最近 5 个更新的仓库
+          items = []
+          for r in sorted(repos, key=lambda x: x.get('pushed_at') or '', reverse=True)[:5]:
+              name = r['name']
+              url = r['html_url']
+              desc = r.get('description') or ''
+              items.append(f'- [{name}]({url}) — {desc}')
+
+          # 生成内容
+          block = '\n'.join(items) if items else '- （暂无动态）'
+
+          # 更新 README
+          path = 'README.md'
+          with open(path, 'r', encoding='utf-8') as f:
+              content = f.read()
+          content = re.sub(
+              r'<!--START_SECTION:activity-->[\s\S]*<!--END_SECTION:activity-->',
+              f'<!--START_SECTION:activity-->\n{block}\n<!--END_SECTION:activity-->',
+              content,
+          )
+          with open(path, 'w', encoding='utf-8') as f:
+              f.write(content)
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update profile activity section" || echo "No changes"
+          git push
