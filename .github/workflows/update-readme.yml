@@ -26,38 +26,83 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install requests
 
-      - name: Generate activity section
+      - name: Update README sections
         run: |
           python - <<'PY'
           import requests, os, re
           user = 'ljxpython'
+
+          # 定义代表性项目列表
+          featured_repos = [
+              {'name': 'aitestlab', 'desc': '从 0 到 1 搭建 AI 测试平台'},
+              {'name': 'locust_framework', 'desc': '基础压测框架'},
+              {'name': 'pytest_framework', 'desc': '自动化测试框架'},
+              {'name': 'test_platform', 'desc': '测试开发平台（前端 TS）'},
+              {'name': 'flask_platform_srv', 'desc': '测试平台后端'},
+              {'name': 'test_engineer', 'desc': '测试开发知识总结'}
+          ]
+
+          # 1. 获取最近活动的仓库
           repos = requests.get(
               f'https://api.github.com/users/{user}/repos',
               params={'per_page':100, 'sort':'updated'}
           ).json()
 
-          # 最近 5 个更新的仓库
-          items = []
+          # 生成最近动态内容
+          activity_items = []
           for r in sorted(repos, key=lambda x: x.get('pushed_at') or '', reverse=True)[:5]:
               name = r['name']
               url = r['html_url']
               desc = r.get('description') or ''
-              items.append(f'- [{name}]({url}) — {desc}')
+              activity_items.append(f'- [{name}]({url}) — {desc}')
 
-          # 生成内容
-          block = '\n'.join(items) if items else '- （暂无动态）'
+          activity_block = '\n'.join(activity_items) if activity_items else '- （暂无动态）'
 
-          # 更新 README
+          # 2. 更新代表性项目的star数量
+          featured_items = []
+          for repo in featured_repos:
+              repo_name = repo['name']
+              desc = repo['desc']
+              try:
+                  api_url = f'https://api.github.com/repos/{user}/{repo_name}'
+                  response = requests.get(api_url)
+                  if response.status_code == 200:
+                      repo_data = response.json()
+                      stars = repo_data.get('stargazers_count', 0)
+                      url = repo_data.get('html_url', f'https://github.com/{user}/{repo_name}')
+                      featured_items.append(f'- [{repo_name}]({url}) — {desc}（{stars}★）')
+                  else:
+                      # 如果API失败，保持原有格式
+                      featured_items.append(f'- [{repo_name}](https://github.com/{user}/{repo_name}) — {desc}（?★）')
+              except Exception as e:
+                  featured_items.append(f'- [{repo_name}](https://github.com/{user}/{repo_name}) — {desc}（?★）')
+
+          featured_block = '\n'.join(featured_items)
+
+          # 3. 更新README文件
           path = 'README.md'
           with open(path, 'r', encoding='utf-8') as f:
               content = f.read()
+
+          # 更新最近动态部分
           content = re.sub(
               r'<!--START_SECTION:activity-->[\s\S]*<!--END_SECTION:activity-->',
-              f'<!--START_SECTION:activity-->\n{block}\n<!--END_SECTION:activity-->',
+              f'<!--START_SECTION:activity-->\n{activity_block}\n<!--END_SECTION:activity-->',
               content,
           )
+
+          # 更新代表性项目部分
+          content = re.sub(
+              r'(### 🌟 代表性项目\n)[\s\S]*?(\n\n> 想要更快了解项目)',
+              f'\\1{featured_block}\\2',
+              content,
+          )
+
           with open(path, 'w', encoding='utf-8') as f:
               f.write(content)
+
+          print(f'✅ 活动动态更新完成')
+          print(f'✅ 代表性项目星标更新完成')
           PY
 
       - name: Commit and push
@@ -68,6 +113,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update profile activity section"
+            git commit -m "chore: update profile activity and project stars"
             git push
           fi
