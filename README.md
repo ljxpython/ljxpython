@@ -50,5 +50,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-<!-- 这里由 GitHub Actions 定期更新 -->
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [note-app](https://github.com/ljxpython/note-app) — note笔记平台搭建
+- [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
+- [locust_framework](https://github.com/ljxpython/locust_framework) — 一个基础的locust压测框架,可以拿过来在这个框架基础上进行二次开发
+- [pytest_framework](https://github.com/ljxpython/pytest_framework) — 一个基础的自动化测试框架,可以在这个框架基础上进行二次开发
 <!--END_SECTION:activity-->
