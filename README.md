@@ -50,9 +50,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [TodoMaster](https://github.com/ljxpython/TodoMaster) — TodoMaster 对bmad-method的实践项目之一
 - [bmad-method-tutorial](https://github.com/ljxpython/bmad-method-tutorial) — bmad-method使用教程及个人实践
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [note-app](https://github.com/ljxpython/note-app) — note笔记平台搭建
 - [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
 <!--END_SECTION:activity-->
