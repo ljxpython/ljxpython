@@ -50,8 +50,8 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发相关知识总结
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 一个基础的locust压测框架,可以拿过来在这个框架基础上进行二次开发
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 一个基础的自动化测试框架,可以在这个框架基础上进行二次开发
