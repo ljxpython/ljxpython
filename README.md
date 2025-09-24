@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm 李佳欣 (ljxpython)</h1>
 
 <p align="center">
-  <b>测试开发工程师｜服务端测试｜自动化 & 性能｜测试平台｜企业级 AI 智能体</b>
+  <b>测试开发工程师｜服务端测试｜自动化 & 性能｜测试平台｜企业级 AI 智能体搭建</b>
 </p>
 
 <p align="center">
