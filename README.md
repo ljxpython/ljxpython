@@ -19,7 +19,7 @@
 - 欢迎合作与交流：可在本主页的 Discussions 发帖，或在任一仓库提交 Issue
 
 ### 🧰 技术栈
-- 语言与框架：Python| Autogen | PyTest｜Locust｜fastapi | Flask｜TypeScript｜Vue | React
+- 语言与框架：Python| Autogen | LangGraph | PyTest｜Locust｜fastapi | Flask｜TypeScript｜Vue | React
 - 工具与平台：GitHub Actions｜Docker｜(K8s/云) | 自建测试平台
 
 ### 🌟 代表性项目
@@ -36,6 +36,8 @@
 - 目前所有项目均开放源码也无任何盈利打算,欢迎和大家交流讨论
 - 在 Profile 或项目仓库开启 Discussions，欢迎你的想法/问题/建议
 - 想参与贡献？搜索 `good first issue` 和 `help wanted` 标签
+- 个人微信:
+<img src="/assets/image-20250531212549739.png" alt="Description" width="300"/>
 
 ### 📊 数据卡片
 <p>
