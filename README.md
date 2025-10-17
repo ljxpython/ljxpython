@@ -23,7 +23,7 @@
 - 工具与平台：GitHub Actions｜Docker｜(K8s/云) | 自建测试平台
 
 ### 🌟 代表性项目
-- [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（40★）
+- [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（41★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（14★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（12★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（9★）
@@ -52,8 +52,8 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发相关知识总结
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 一个基础的locust压测框架,可以拿过来在这个框架基础上进行二次开发
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 一个基础的自动化测试框架,可以在这个框架基础上进行二次开发
