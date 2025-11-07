@@ -23,7 +23,7 @@
 - 工具与平台：GitHub Actions｜Docker｜(K8s/云) | 自建测试平台
 
 ### 🌟 代表性项目
-- [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（43★）
+- [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（44★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（15★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（12★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（9★）
