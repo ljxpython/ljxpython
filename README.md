@@ -24,10 +24,10 @@
 
 ### 🌟 代表性项目
 - [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（43★）
-- [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（15★）
-- [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（12★）
-- [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（9★）
-- [flask_platform_srv](https://github.com/ljxpython/flask_platform_srv) — 测试平台后端（8★）
+- [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
+- [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（13★）
+- [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（10★）
+- [flask_platform_srv](https://github.com/ljxpython/flask_platform_srv) — 测试平台后端（9★）
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发知识总结（4★）
 
 > 想要更快了解项目？进入仓库阅读 README 的"快速开始"和"亮点与 Roadmap"。
