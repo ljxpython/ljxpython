@@ -26,7 +26,7 @@
 - [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（44★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（13★）
-- [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（10★）
+- [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（11★）
 - [flask_platform_srv](https://github.com/ljxpython/flask_platform_srv) — 测试平台后端（9★）
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发知识总结（4★）
 
@@ -52,8 +52,8 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发相关知识总结
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 一个基础的locust压测框架,可以拿过来在这个框架基础上进行二次开发
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 一个基础的自动化测试框架,可以在这个框架基础上进行二次开发
