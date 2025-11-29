@@ -52,9 +52,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [agui_study](https://github.com/ljxpython/agui_study) — 
+- [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
+- [k6_study](https://github.com/ljxpython/k6_study) — 供个人学习 k6 工具
 - [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
-- [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
-- [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发相关知识总结
-- [locust_framework](https://github.com/ljxpython/locust_framework) — 一个基础的locust压测框架,可以拿过来在这个框架基础上进行二次开发
 <!--END_SECTION:activity-->
