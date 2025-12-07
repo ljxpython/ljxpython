@@ -52,8 +52,8 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
 - [agui_study](https://github.com/ljxpython/agui_study) — 
 - [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
 - [k6_study](https://github.com/ljxpython/k6_study) — 供个人学习 k6 工具
