@@ -52,8 +52,8 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发相关知识总结
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [agui_study](https://github.com/ljxpython/agui_study) — 
 - [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
 - [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
