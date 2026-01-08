@@ -52,9 +52,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
+- [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发相关知识总结
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
 - [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
 - [cccc_practice](https://github.com/ljxpython/cccc_practice) — 这是对https://github.com/ChesterRa/cccc仓库的一个实践
-- [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发相关知识总结
 <!--END_SECTION:activity-->
