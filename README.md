@@ -52,9 +52,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [vibe_tools](https://github.com/ljxpython/vibe_tools) — 安装开发过程中需要的环境依赖及工具
-- [vibe_skills](https://github.com/ljxpython/vibe_skills) — 用着比较顺手的及自己工作中生成的skills
 - [vibe_workflow](https://github.com/ljxpython/vibe_workflow) — 个人比较推荐的vibe coding 方式
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [vibe_tools](https://github.com/ljxpython/vibe_tools) — 安装开发过程中需要的环境依赖及工具
+- [vibe_skills](https://github.com/ljxpython/vibe_skills) — 用着比较顺手的及自己工作中生成的skills
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发相关知识总结
 <!--END_SECTION:activity-->
