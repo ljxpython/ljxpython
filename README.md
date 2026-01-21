@@ -52,9 +52,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [vibe_skills](https://github.com/ljxpython/vibe_skills) — 用着比较顺手的及自己工作中生成的skills
 - [antpro-fastapi-starter](https://github.com/ljxpython/antpro-fastapi-starter) — 一个简易的前后端分离项目的模板，前端ant design Pro 后端python fastapi 
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [agui_study](https://github.com/ljxpython/agui_study) — 
 - [vibe_workflow](https://github.com/ljxpython/vibe_workflow) — 个人比较推荐的vibe coding 方式
 <!--END_SECTION:activity-->
