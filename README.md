@@ -23,7 +23,7 @@
 - 工具与平台：GitHub Actions｜Docker｜(K8s/云) | 自建测试平台
 
 ### 🌟 代表性项目
-- [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（61★）
+- [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（62★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（14★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（12★）
@@ -52,8 +52,8 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [vibe_skills](https://github.com/ljxpython/vibe_skills) — 用着比较顺手的及自己工作中生成的skills
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [antpro-fastapi-starter](https://github.com/ljxpython/antpro-fastapi-starter) — 一个简易的前后端分离项目的模板，前端ant design Pro 后端python fastapi 
 - [agui_study](https://github.com/ljxpython/agui_study) — 
 - [vibe_workflow](https://github.com/ljxpython/vibe_workflow) — 个人比较推荐的vibe coding 方式
