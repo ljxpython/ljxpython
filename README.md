@@ -52,8 +52,8 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [useful_skill](https://github.com/ljxpython/useful_skill) — 个人使用，比较好用的skill
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [useful_skill](https://github.com/ljxpython/useful_skill) — 个人使用，比较好用的skill
 - [vibe_skills](https://github.com/ljxpython/vibe_skills) — 用着比较顺手的及自己工作中生成的skills
 - [antpro-fastapi-starter](https://github.com/ljxpython/antpro-fastapi-starter) — 一个简易的前后端分离项目的模板，前端ant design Pro 后端python fastapi 
 - [agui_study](https://github.com/ljxpython/agui_study) — 
