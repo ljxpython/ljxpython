@@ -52,9 +52,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [langchain_teach](https://github.com/ljxpython/langchain_teach) — langchain 个人的学习笔记
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [ai-learning-portfolio](https://github.com/ljxpython/ai-learning-portfolio) — 个人的AI 项目及学习笔记
 - [my_research_langgraph](https://github.com/ljxpython/my_research_langgraph) — 在这个项目中，我和AI进行多次对话，完成我前后端及测试平台基础功能的搭建
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
-- [ai_agent_test_platform](https://github.com/ljxpython/ai_agent_test_platform) — 个人的智能化AI测试平台，自己使用，后面完善后会整合到https://github.com/ljxpython/aitestlab中
 <!--END_SECTION:activity-->
