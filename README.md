@@ -53,8 +53,8 @@
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
 - [langgraph-sdk-teach](https://github.com/ljxpython/langgraph-sdk-teach) — 个人学习langgrap SDK的笔记，可以用于前端和langgraph服务进行对接
-- [my_research_langgraph](https://github.com/ljxpython/my_research_langgraph) — 在这个项目中，我和AI进行多次对话，完成我前后端及测试平台基础功能的搭建
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [my_research_langgraph](https://github.com/ljxpython/my_research_langgraph) — 在这个项目中，我和AI进行多次对话，完成我前后端及测试平台基础功能的搭建
 - [ai-learning-portfolio](https://github.com/ljxpython/ai-learning-portfolio) — 个人的AI 项目及学习笔记
 - [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
 <!--END_SECTION:activity-->
