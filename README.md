@@ -52,9 +52,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [agent_server_try](https://github.com/ljxpython/agent_server_try) — 这试试一次agent平台化开发的的尝试，供个人实践使用
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [project-file-platform](https://github.com/ljxpython/project-file-platform) — 文件存储及展示的前后端及mcp，供个人或者小企业使用
 - [infra-provisioning-hub](https://github.com/ljxpython/infra-provisioning-hub) — 环境配置及脚本模板
 - [langgraph-agent-studio](https://github.com/ljxpython/langgraph-agent-studio) — 对langgraph进行二次开发封装，基本框架已经搭建完成，可以做生产级别的开发使用（个人认为）
-- [langgraph-sdk-teach](https://github.com/ljxpython/langgraph-sdk-teach) — 个人学习langgrap SDK的笔记，可以用于前端和langgraph服务进行对接
+- [agent_server_try](https://github.com/ljxpython/agent_server_try) — 这试试一次agent平台化开发的的尝试，供个人实践使用
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 <!--END_SECTION:activity-->
