@@ -15,15 +15,15 @@
 ### 👋 关于我
 - 偏理想主义的测试开发工程师，主攻服务端测试
 - 擅长：自动化测试、性能测试、测试平台开发、企业级 AI 智能体搭建
-- 目前在做：AI 测试平台与测试工程化最佳实践 MCP服务赋能软件测试最佳实践
+- 目前在做：Agent Platform（平台控制面 + LangGraph 运行时）与 MCP 赋能软件测试最佳实践
 - 欢迎合作与交流：可在本主页的 Discussions 发帖，或在任一仓库提交 Issue
 
 ### 🧰 技术栈
-- 语言与框架：Python| Autogen | LangGraph | PyTest｜Locust｜fastapi | Flask｜TypeScript｜Vue | React
+- 语言与框架：Python｜LangGraph｜LangChain｜FastAPI｜Flask｜PyTest｜Locust｜TypeScript｜Vue｜React｜AutoGen
 - 工具与平台：GitHub Actions｜Docker｜(K8s/云) | 自建测试平台
 
 ### 🌟 代表性项目
-- [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（69★）
+- [agent-platform](https://github.com/ljxpython/agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（70★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（15★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（12★）
@@ -52,7 +52,7 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
+- [agent-platform](https://github.com/ljxpython/agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）
 - [agent_server_try](https://github.com/ljxpython/agent_server_try) — 这试试一次agent平台化开发的的尝试，供个人实践使用
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [langgraph-agent-studio](https://github.com/ljxpython/langgraph-agent-studio) — 对langgraph进行二次开发封装，基本框架已经搭建完成，可以做生产级别的开发使用（个人认为）
