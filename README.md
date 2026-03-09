@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm 李佳欣 (ljxpython)</h1>
 
 <p align="center">
-  <b>测试开发工程师｜服务端测试｜自动化 & 性能｜测试平台｜企业级 AI 智能体搭建</b>
+  <b>测试开发工程师｜服务端测试｜自动化与性能工程｜测试平台建设｜企业级 AI 智能体实践</b>
 </p>
 
 <p align="center">
@@ -13,14 +13,16 @@
 ---
 
 ### 👋 关于我
-- 偏理想主义的测试开发工程师，主攻服务端测试
-- 擅长：自动化测试、性能测试、测试平台开发、企业级 AI 智能体搭建
-- 目前在做：Agent Platform（平台控制面 + LangGraph 运行时）与 MCP 赋能软件测试最佳实践
-- 欢迎合作与交流：可在本主页的 Discussions 发帖，或在任一仓库提交 Issue
+- 偏理想主义的测试开发工程师，长期主攻服务端测试与测试工程化
+- 持续投入：自动化测试、性能测试、测试平台开发、企业级 AI 智能体系统落地
+- 目前在做：Agent Platform（平台控制面 + LangGraph 运行时）、MCP 与 Skills 赋能软件测试最佳实践
+- 希望把项目沉淀成真正可复用、可二开、可落地的工程资产，而不仅是 demo
+- 欢迎合作与交流：可在本主页 Discussions 发帖，或在任一仓库提交 Issue
 
 ### 🧰 技术栈
 - 语言与框架：Python｜LangGraph｜LangChain｜FastAPI｜Flask｜PyTest｜Locust｜TypeScript｜Vue｜React｜AutoGen
-- 工具与平台：GitHub Actions｜Docker｜(K8s/云) | 自建测试平台
+- 工具与平台：GitHub Actions｜Docker｜PostgreSQL｜MCP｜LangSmith｜K8s / 云环境｜自建测试平台
+- 关注方向：测试左移、服务端质量治理、Agent Engineering、平台化与工程化落地
 
 ### 🌟 代表性项目
 - [agent-platform](https://github.com/ljxpython/agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（70★）
@@ -33,10 +35,10 @@
 > 想要更快了解项目？进入仓库阅读 README 的"快速开始"和"亮点与 Roadmap"。
 
 ### 🙌 开放合作与交流
-- 目前所有项目均开放源码也无任何盈利打算,欢迎和大家交流讨论
-- 在 Profile 或项目仓库开启 Discussions，欢迎你的想法/问题/建议
-- 想参与贡献？搜索 `good first issue` 和 `help wanted` 标签
-- 个人微信:
+- 目前项目以开源分享与长期积累为主，欢迎交流讨论，也欢迎围绕测试平台与 AI 工程实践一起共建
+- 在 Profile 或项目仓库开启 Discussions，欢迎你的想法、问题与建议
+- 想参与贡献？可以优先关注 `good first issue` 和 `help wanted` 标签
+- 个人微信：
 <img src="/assets/image-20250531212549739.png" alt="Description" width="300"/>
 
 ### 📊 数据卡片
