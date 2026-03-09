@@ -23,7 +23,7 @@
 - 工具与平台：GitHub Actions｜Docker｜(K8s/云) | 自建测试平台
 
 ### 🌟 代表性项目
-- [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（68★）
+- [aitestlab](https://github.com/ljxpython/aitestlab) — 从 0 到 1 搭建 AI 测试平台（69★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（15★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（12★）
@@ -52,9 +52,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [aitestlab](https://github.com/ljxpython/aitestlab) — 从零到1搭建一个AI测试平台,跟着我来你也可以
 - [agent_server_try](https://github.com/ljxpython/agent_server_try) — 这试试一次agent平台化开发的的尝试，供个人实践使用
-- [langgraph-agent-studio](https://github.com/ljxpython/langgraph-agent-studio) — 对langgraph进行二次开发封装，基本框架已经搭建完成，可以做生产级别的开发使用（个人认为）
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [langgraph-agent-studio](https://github.com/ljxpython/langgraph-agent-studio) — 对langgraph进行二次开发封装，基本框架已经搭建完成，可以做生产级别的开发使用（个人认为）
 - [infra-provisioning-hub](https://github.com/ljxpython/infra-provisioning-hub) — 环境配置及脚本模板
-- [project-file-platform](https://github.com/ljxpython/project-file-platform) — 文件存储及展示的前后端及mcp，供个人或者小企业使用
 <!--END_SECTION:activity-->
