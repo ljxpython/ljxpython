@@ -55,8 +55,8 @@
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
 - [agent-platform](https://github.com/ljxpython/agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）
+- [AITestLab-archive](https://github.com/ljxpython/AITestLab-archive) — aitestlab的仓库备份
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [langgraph-agent-studio](https://github.com/ljxpython/langgraph-agent-studio) — 对langgraph进行二次开发封装，基本框架已经搭建完成，可以做生产级别的开发使用（个人认为）
 - [agent_server_try](https://github.com/ljxpython/agent_server_try) — 这试试一次agent平台化开发的的尝试，供个人实践使用
-- [infra-provisioning-hub](https://github.com/ljxpython/infra-provisioning-hub) — 环境配置及脚本模板
 <!--END_SECTION:activity-->
