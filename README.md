@@ -54,7 +54,7 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ai-agent-test-platform](https://github.com/ljxpython/ai-agent-test-platform) — AI测试平台开发，和我一起你也可以，思路方法都在这里。通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）
+- [ai-agent-test-platform](https://github.com/ljxpython/ai-agent-test-platform) — AI测试平台开发，和我一起来你也可以，思路方法都在这里，不需要手写一段代码，通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [AITestLab-archive](https://github.com/ljxpython/AITestLab-archive) — aitestlab的仓库备份
 - [langgraph-agent-studio](https://github.com/ljxpython/langgraph-agent-studio) — 对langgraph进行二次开发封装，基本框架已经搭建完成，可以做生产级别的开发使用（个人认为）
