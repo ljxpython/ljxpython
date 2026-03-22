@@ -25,11 +25,11 @@
 - 关注方向：测试左移、服务端质量治理、Agent Engineering、平台化与工程化落地
 
 ### 🌟 代表性项目
-- [agent-platform](https://github.com/ljxpython/ai-agent-test-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（75★）
+- [agent-platform](https://github.com/ljxpython/ai-agent-test-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（76★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（15★）
-- [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（12★）
-- [flask_platform_srv](https://github.com/ljxpython/flask_platform_srv) — 测试平台后端（10★）
+- [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（13★）
+- [flask_platform_srv](https://github.com/ljxpython/flask_platform_srv) — 测试平台后端（11★）
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发知识总结（4★）
 
 > 想要更快了解项目？进入仓库阅读 README 的"快速开始"和"亮点与 Roadmap"。
