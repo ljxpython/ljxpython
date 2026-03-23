@@ -27,7 +27,7 @@
 ### 🌟 代表性项目
 - [agent-platform](https://github.com/ljxpython/ai-agent-test-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（76★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
-- [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（15★）
+- [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（16★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（13★）
 - [flask_platform_srv](https://github.com/ljxpython/flask_platform_srv) — 测试平台后端（11★）
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发知识总结（4★）
@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [ai-learning-portfolio](https://github.com/ljxpython/ai-learning-portfolio) — 个人的AI 项目及学习笔记
 - [ai-agent-test-platform](https://github.com/ljxpython/ai-agent-test-platform) — AI测试平台开发，和我一起来你也可以，思路方法都在这里，不需要手写一段代码，通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）
+- [codex_opencode](https://github.com/ljxpython/codex_opencode) — 
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [AITestLab-archive](https://github.com/ljxpython/AITestLab-archive) — aitestlab的仓库备份
-- [langgraph-agent-studio](https://github.com/ljxpython/langgraph-agent-studio) — 对langgraph进行二次开发封装，基本框架已经搭建完成，可以做生产级别的开发使用（个人认为）
-- [agent_server_try](https://github.com/ljxpython/agent_server_try) — 这试试一次agent平台化开发的的尝试，供个人实践使用
 <!--END_SECTION:activity-->
