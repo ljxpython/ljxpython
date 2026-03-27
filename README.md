@@ -25,7 +25,7 @@
 - 关注方向：测试左移、服务端质量治理、Agent Engineering、平台化与工程化落地
 
 ### 🌟 代表性项目
-- [agent-platform](https://github.com/ljxpython/ai-agent-test-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（77★）
+- [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（77★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（16★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（13★）
@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ai-agent-test-platform](https://github.com/ljxpython/ai-agent-test-platform) — AI测试平台开发，和我一起来你也可以，思路方法都在这里，不需要手写一段代码，通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）
-- [ai-learning-portfolio](https://github.com/ljxpython/ai-learning-portfolio) — 个人的AI 项目及学习笔记
+- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI测试平台开发，和我一起来你也可以，思路方法都在这里，不需要手写一段代码，通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [ai-learning-portfolio](https://github.com/ljxpython/ai-learning-portfolio) — 个人的AI 项目及学习笔记
 - [my_research_langgraph](https://github.com/ljxpython/my_research_langgraph) — 在这个项目中，我和AI进行多次对话，完成我前后端及测试平台基础功能的搭建
 - [agent_server_try](https://github.com/ljxpython/agent_server_try) — 这试试一次agent平台化开发的的尝试，供个人实践使用
 <!--END_SECTION:activity-->
