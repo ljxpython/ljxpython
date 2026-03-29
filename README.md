@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [codex_opencode](https://github.com/ljxpython/codex_opencode) — 
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI测试平台开发，和我一起来你也可以，思路方法都在这里，不需要手写一段代码，通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [codex_opencode](https://github.com/ljxpython/codex_opencode) — 
 - [ai-learning-portfolio](https://github.com/ljxpython/ai-learning-portfolio) — 个人的AI 项目及学习笔记
 - [my_research_langgraph](https://github.com/ljxpython/my_research_langgraph) — 在这个项目中，我和AI进行多次对话，完成我前后端及测试平台基础功能的搭建
 <!--END_SECTION:activity-->
