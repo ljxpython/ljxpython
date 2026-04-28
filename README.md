@@ -54,8 +54,8 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
 - [rag-anything-use](https://github.com/ljxpython/rag-anything-use) — 对https://github.com/HKUDS/RAG-Anything的封装和使用
 - [ai-learning-portfolio](https://github.com/ljxpython/ai-learning-portfolio) — 个人的AI 项目及学习笔记
 - [claude_code_-research](https://github.com/ljxpython/claude_code_-research) — 
