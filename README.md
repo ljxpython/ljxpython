@@ -55,8 +55,8 @@
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
 - [WebVoyager](https://github.com/ljxpython/WebVoyager) — Code for "WebVoyager: WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models"
-- [OSWorldUse](https://github.com/ljxpython/OSWorldUse) — 
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [OSWorldUse](https://github.com/ljxpython/OSWorldUse) — 
 - [OS-Symphony](https://github.com/ljxpython/OS-Symphony) — [ACL 2026 Main] Official repository for paper: OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agents
 - [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
 <!--END_SECTION:activity-->
