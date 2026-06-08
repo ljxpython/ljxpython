@@ -25,7 +25,7 @@
 - 关注方向：测试左移、服务端质量治理、Agent Engineering、平台化与工程化落地
 
 ### 🌟 代表性项目
-- [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（103★）
+- [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（104★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（17★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（13★）
@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [game-vault-launcher](https://github.com/ljxpython/game-vault-launcher) — A Windows-first local game library launcher for organizing, searching, and starting installed games.
 - [OSWorldUse](https://github.com/ljxpython/OSWorldUse) — 
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [WebVoyager](https://github.com/ljxpython/WebVoyager) — Code for "WebVoyager: WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models"
 - [OS-Symphony](https://github.com/ljxpython/OS-Symphony) — [ACL 2026 Main] Official repository for paper: OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agents
-- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
 <!--END_SECTION:activity-->
