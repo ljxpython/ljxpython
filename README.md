@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [game-vault-launcher](https://github.com/ljxpython/game-vault-launcher) — A Windows-first local game library launcher for organizing, searching, and starting installed games.
+- [ai-video-maker](https://github.com/ljxpython/ai-video-maker) — Free automated toolkit for turning open-source repositories into narrated technical videos
 - [OSWorldUse](https://github.com/ljxpython/OSWorldUse) — 
+- [oss-learning-lab](https://github.com/ljxpython/oss-learning-lab) — 
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
-- [WebVoyager](https://github.com/ljxpython/WebVoyager) — Code for "WebVoyager: WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models"
-- [OS-Symphony](https://github.com/ljxpython/OS-Symphony) — [ACL 2026 Main] Official repository for paper: OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agents
+- [game-vault-launcher](https://github.com/ljxpython/game-vault-launcher) — A Windows-first local game library launcher for organizing, searching, and starting installed games.
 <!--END_SECTION:activity-->
