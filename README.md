@@ -25,7 +25,7 @@
 - 关注方向：测试左移、服务端质量治理、Agent Engineering、平台化与工程化落地
 
 ### 🌟 代表性项目
-- [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（104★）
+- [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（105★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（17★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（13★）
@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [ai-video-maker](https://github.com/ljxpython/ai-video-maker) — Free automated toolkit for turning open-source repositories into narrated technical videos
 - [OSWorldUse](https://github.com/ljxpython/OSWorldUse) — 
 - [oss-learning-lab](https://github.com/ljxpython/oss-learning-lab) — 
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [game-vault-launcher](https://github.com/ljxpython/game-vault-launcher) — A Windows-first local game library launcher for organizing, searching, and starting installed games.
 <!--END_SECTION:activity-->
