@@ -55,8 +55,8 @@
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [android_world](https://github.com/ljxpython/android_world) — AndroidWorld is an environment and benchmark for autonomous agents
 - [OSWorldUse](https://github.com/ljxpython/OSWorldUse) — 
 - [ai-video-maker](https://github.com/ljxpython/ai-video-maker) — Free automated toolkit for turning open-source repositories into narrated technical videos
 - [oss-learning-lab](https://github.com/ljxpython/oss-learning-lab) — 
-- [game-vault-launcher](https://github.com/ljxpython/game-vault-launcher) — A Windows-first local game library launcher for organizing, searching, and starting installed games.
 <!--END_SECTION:activity-->
