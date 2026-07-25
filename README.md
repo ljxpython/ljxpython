@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
+- [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
 - [android_world](https://github.com/ljxpython/android_world) — AndroidWorld is an environment and benchmark for autonomous agents
 - [OSWorldUse](https://github.com/ljxpython/OSWorldUse) — 
-- [ai-video-maker](https://github.com/ljxpython/ai-video-maker) — Free automated toolkit for turning open-source repositories into narrated technical videos
 <!--END_SECTION:activity-->
