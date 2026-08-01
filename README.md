@@ -25,7 +25,7 @@
 - 关注方向：测试左移、服务端质量治理、Agent Engineering、平台化与工程化落地
 
 ### 🌟 代表性项目
-- [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（118★）
+- [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（120★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（19★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（13★）
@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [knowledge-site-template](https://github.com/ljxpython/knowledge-site-template) — Markdown-first Astro template for focused knowledge sites
+- [open_deep_research](https://github.com/ljxpython/open_deep_research) — 
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
 - [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
-- [open_deep_research](https://github.com/ljxpython/open_deep_research) — 
-- [android_world](https://github.com/ljxpython/android_world) — AndroidWorld is an environment and benchmark for autonomous agents
 <!--END_SECTION:activity-->
