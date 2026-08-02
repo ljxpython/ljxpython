@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [myblog](https://github.com/ljxpython/myblog) — 个人博客：测试开发相关知识总结
+- [knowledge-notes](https://github.com/ljxpython/knowledge-notes) — 
 - [knowledge-site-template](https://github.com/ljxpython/knowledge-site-template) — Markdown-first Astro template for focused knowledge sites
-- [open_deep_research](https://github.com/ljxpython/open_deep_research) — 
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
-- [langgraph_teach](https://github.com/ljxpython/langgraph_teach) — 用于个人langgrap的学习使用
-- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
+- [open_deep_research](https://github.com/ljxpython/open_deep_research) — 
 <!--END_SECTION:activity-->
