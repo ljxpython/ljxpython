@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [knowledge-notes-deck](https://github.com/ljxpython/knowledge-notes-deck) — 
+- [knowledge-deck-template](https://github.com/ljxpython/knowledge-deck-template) — 
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [knowledge-notes](https://github.com/ljxpython/knowledge-notes) — 
 - [knowledge-site-template](https://github.com/ljxpython/knowledge-site-template) — Markdown-first Astro template for focused knowledge sites
-- [open_deep_research](https://github.com/ljxpython/open_deep_research) — 
-- [myblog](https://github.com/ljxpython/myblog) — 个人博客：测试开发相关知识总结
 <!--END_SECTION:activity-->
