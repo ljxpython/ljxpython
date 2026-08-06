@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [knowledge-notes-deck](https://github.com/ljxpython/knowledge-notes-deck) — 
 - [knowledge-deck-template](https://github.com/ljxpython/knowledge-deck-template) — 
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [knowledge-notes](https://github.com/ljxpython/knowledge-notes) — 
 - [knowledge-site-template](https://github.com/ljxpython/knowledge-site-template) — Markdown-first Astro template for focused knowledge sites
 <!--END_SECTION:activity-->
