@@ -55,8 +55,8 @@
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
 - [open-swe](https://github.com/ljxpython/open-swe) — An Open-Source Asynchronous Coding Agent
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [deer-flow](https://github.com/ljxpython/deer-flow) — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 - [nanobot](https://github.com/ljxpython/nanobot) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [knowledge-notes-deck](https://github.com/ljxpython/knowledge-notes-deck) — 
 <!--END_SECTION:activity-->
