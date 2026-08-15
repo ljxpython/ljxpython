@@ -27,7 +27,7 @@
 ### 🌟 代表性项目
 - [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（124★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
-- [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（19★）
+- [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（20★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（13★）
 - [flask_platform_srv](https://github.com/ljxpython/flask_platform_srv) — 测试平台后端（11★）
 - [test_engineer](https://github.com/ljxpython/test_engineer) — 测试开发知识总结（4★）
@@ -54,8 +54,8 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [open-swe](https://github.com/ljxpython/open-swe) — An Open-Source Asynchronous Coding Agent
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [open-swe](https://github.com/ljxpython/open-swe) — An Open-Source Asynchronous Coding Agent
 - [deer-flow](https://github.com/ljxpython/deer-flow) — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 - [nanobot](https://github.com/ljxpython/nanobot) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [knowledge-notes-deck](https://github.com/ljxpython/knowledge-notes-deck) — 
