@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [graphharbor](https://github.com/ljxpython/graphharbor) — Self-hosted LangGraph Agent Server with PostgreSQL and Redis runtime
 - [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [graphharbor](https://github.com/ljxpython/graphharbor) — Self-hosted LangGraph Agent Server with PostgreSQL and Redis runtime
 - [open-swe](https://github.com/ljxpython/open-swe) — An Open-Source Asynchronous Coding Agent
 - [deer-flow](https://github.com/ljxpython/deer-flow) — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 <!--END_SECTION:activity-->
