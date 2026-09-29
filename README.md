@@ -25,7 +25,7 @@
 - 关注方向：测试左移、服务端质量治理、Agent Engineering、平台化与工程化落地
 
 ### 🌟 代表性项目
-- [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（132★）
+- [agent-platform](https://github.com/ljxpython/ai-agent-platform) — 通用 AI 智能体平台工作区（平台控制面 + LangGraph 运行时）（134★）
 - [locust_framework](https://github.com/ljxpython/locust_framework) — 基础压测框架（16★）
 - [pytest_framework](https://github.com/ljxpython/pytest_framework) — 自动化测试框架（21★）
 - [test_platform](https://github.com/ljxpython/test_platform) — 测试开发平台（前端 TS）（13★）
@@ -55,8 +55,8 @@
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
 - [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — AI agent平台开发 --以测试 方向为例，搭建了一套 harness 可落地方案，不需要手写一段代码，企业级通用 AI 智能体平台框架（平台控制面 + LangGraph 运行时），可以在这个基础轻松二次开发
-- [graphharbor](https://github.com/ljxpython/graphharbor) — Self-hosted LangGraph Agent Server with PostgreSQL and Redis runtime
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [graphharbor](https://github.com/ljxpython/graphharbor) — Self-hosted LangGraph Agent Server with PostgreSQL and Redis runtime
 - [mshop_api](https://github.com/ljxpython/mshop_api) — a test in position site
 - [open-swe](https://github.com/ljxpython/open-swe) — An Open-Source Asynchronous Coding Agent
 <!--END_SECTION:activity-->
