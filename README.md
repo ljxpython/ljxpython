@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
-- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — 企业级 AI Agent 平台底座，基于 LangGraph 生态体系二次开发，开箱即用（FastAPI + Vue 3 + MCP + Skills + 沙箱工作区 + 长期记忆）
 - [graphharbor](https://github.com/ljxpython/graphharbor) — Enterprise-grade, open-source LangGraph Agent Server powered by PostgreSQL checkpoints & Redis distributed workers. Subagent traceability & SSE resilience.
+- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — 企业级 AI Agent 平台底座，基于 LangGraph 生态体系二次开发，开箱即用（FastAPI + Vue 3 + MCP + Skills + 沙箱工作区 + 长期记忆）
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [mshop_api](https://github.com/ljxpython/mshop_api) — a test in position site
 - [open-swe](https://github.com/ljxpython/open-swe) — An Open-Source Asynchronous Coding Agent
 <!--END_SECTION:activity-->
