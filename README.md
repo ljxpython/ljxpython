@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [knowledge-deck-template](https://github.com/ljxpython/knowledge-deck-template) — 
-- [rag-anything-use](https://github.com/ljxpython/rag-anything-use) — 对https://github.com/HKUDS/RAG-Anything的封装和使用
+- [ai-learn](https://github.com/ljxpython/ai-learn) — 
+- [ai-knowledge-deck](https://github.com/ljxpython/ai-knowledge-deck) — 
+- [ai-knowledge-site](https://github.com/ljxpython/ai-knowledge-site) — 
 - [LightRAG](https://github.com/ljxpython/LightRAG) — [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
-- [knowledge-site-template](https://github.com/ljxpython/knowledge-site-template) — Markdown-first Astro template for focused knowledge sites
 - [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — 企业级 AI Agent 平台底座，基于 LangGraph 生态体系二次开发，开箱即用（FastAPI + Vue 3 + MCP + Skills + 沙箱工作区 + 长期记忆）
 <!--END_SECTION:activity-->
