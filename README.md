@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
+- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — 企业级 AI Agent 平台底座，基于 LangGraph 生态体系二次开发，开箱即用（FastAPI + Vue 3 + MCP + Skills + 沙箱工作区 + 长期记忆）
 - [pi-agent-study](https://github.com/ljxpython/pi-agent-study) — 
-- [langgraph-deepagents-study](https://github.com/ljxpython/langgraph-deepagents-study) — 
 - [ai-study-template](https://github.com/ljxpython/ai-study-template) — 通用技术研学、源码深潜与框架啃透模板。内置 AI 私教，四步转译 AI 课件，高价值产出博客与面试卡。
-- [ai-knowledge-site](https://github.com/ljxpython/ai-knowledge-site) — 
-- [ai-knowledge-deck](https://github.com/ljxpython/ai-knowledge-deck) — 
+- [LightRAG](https://github.com/ljxpython/LightRAG) — [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
 <!--END_SECTION:activity-->
