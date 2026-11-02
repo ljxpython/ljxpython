@@ -55,8 +55,8 @@
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
 - [pi-agent-study](https://github.com/ljxpython/pi-agent-study) — 
+- [datapulse-assistant](https://github.com/ljxpython/datapulse-assistant) — DataPulse Assistant: 企业级交互式商业智能研报画布 (Text-to-SQL + AST只读沙箱 + 凭据加密密柜)
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
 - [ai-learn](https://github.com/ljxpython/ai-learn) — 
 - [ai-study-template](https://github.com/ljxpython/ai-study-template) — 通用技术研学、源码深潜与框架啃透模板。内置 AI 私教，四步转译 AI 课件，高价值产出博客与面试卡。
-- [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — 企业级 AI Agent 平台底座，基于 LangGraph 生态体系二次开发，开箱即用（FastAPI + Vue 3 + MCP + Skills + 沙箱工作区 + 长期记忆）
 <!--END_SECTION:activity-->
