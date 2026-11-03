@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [pi-agent-study](https://github.com/ljxpython/pi-agent-study) — 
-- [datapulse-assistant](https://github.com/ljxpython/datapulse-assistant) — DataPulse Assistant: 企业级交互式商业智能研报画布 (Text-to-SQL + AST只读沙箱 + 凭据加密密柜)
-- [ljxpython](https://github.com/ljxpython/ljxpython) — 
-- [ai-learn](https://github.com/ljxpython/ai-learn) — 
 - [ai-study-template](https://github.com/ljxpython/ai-study-template) — 通用技术研学、源码深潜与框架啃透模板。内置 AI 私教，四步转译 AI 课件，高价值产出博客与面试卡。
+- [LightRAG](https://github.com/ljxpython/LightRAG) — [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
+- [deepseek-harness-study](https://github.com/ljxpython/deepseek-harness-study) — DeepSeek Harness & Cordis 微内核架构深度研学与工程实战指南
+- [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [pi-agent-study](https://github.com/ljxpython/pi-agent-study) — 
 <!--END_SECTION:activity-->
