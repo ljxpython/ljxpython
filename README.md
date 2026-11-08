@@ -54,9 +54,9 @@
 
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
-- [gpt-image-gen](https://github.com/ljxpython/gpt-image-gen) — 
 - [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — 企业级 AI Agent 平台底座，基于 LangGraph 生态体系二次开发，开箱即用（FastAPI + Vue 3 + MCP + Skills + 沙箱工作区 + 长期记忆）
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [gpt-image-gen](https://github.com/ljxpython/gpt-image-gen) — 
 - [ai-study-template](https://github.com/ljxpython/ai-study-template) — 通用技术研学、源码深潜与框架啃透模板。内置 AI 私教，四步转译 AI 课件，高价值产出博客与面试卡。
 - [LightRAG](https://github.com/ljxpython/LightRAG) — [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 <!--END_SECTION:activity-->
