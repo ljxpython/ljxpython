@@ -60,31 +60,31 @@
 
 #### 🤖 AI 工程实践
 
-| 项目 | 描述 | ⭐ |
-|---|---|---|
-| [**ai-agent-platform**](https://github.com/ljxpython/ai-agent-platform) | 企业级 AI Agent 平台底座，基于 LangGraph 生态二次开发。平台控制面（认证鉴权、双层 RBAC、多租户隔离、审计日志）+ Agent 执行引擎（LangGraph 状态机、MCP/Skills 装配、HITL 人机协同）+ Vue 3 管理控制台 + LightRAG 知识中台 + MLflow 全链路追踪。内置上下文防爆、Token 预算韧性、弹性 MCP 容错，可直接 fork 作为企业私有 Agent 平台的工程底座。 | **155 ★** |
-| [**LightRAG**](https://github.com/ljxpython/LightRAG) | LightRAG (EMNLP2025) 本地部署与工程实践，图谱式知识检索 | 0 ★ |
-| [**datapulse-assistant**](https://github.com/ljxpython/datapulse-assistant) | 企业级交互式 BI 研报画布，Text-to-SQL + AST 只读沙箱 + 凭据加密密柜（TypeScript） | 0 ★ |
-| [**graphharbor**](https://github.com/ljxpython/graphharbor) | 生产级 LangGraph Agent Server，PostgreSQL 状态持久化 + Redis 分布式 Worker | 0 ★ |
-| [**rag-anything-use**](https://github.com/ljxpython/rag-anything-use) | RAG-Anything 封装与工程实践 | 2 ★ |
-| [**langgraph_teach**](https://github.com/ljxpython/langgraph_teach) | LangGraph 系统性学习笔记与实战 | 7 ★ |
+| 项目 | 描述 |
+|---|---|
+| [**ai-agent-platform**](https://github.com/ljxpython/ai-agent-platform) | 企业级 AI Agent 平台底座（155 ★），基于 LangGraph 生态二次开发。平台控制面（认证鉴权、双层 RBAC、多租户隔离、审计日志）+ Agent 执行引擎（LangGraph 状态机、MCP/Skills 装配、HITL 人机协同）+ Vue 3 管理控制台 + LightRAG 知识中台 + MLflow 全链路追踪。内置上下文防爆、Token 预算韧性、弹性 MCP 容错，可直接 fork 作为企业私有 Agent 平台的工程底座。 |
+| [**LightRAG**](https://github.com/ljxpython/LightRAG) | LightRAG (EMNLP2025) 本地部署与工程实践，图谱式知识检索 |
+| [**datapulse-assistant**](https://github.com/ljxpython/datapulse-assistant) | 企业级交互式 BI 研报画布，Text-to-SQL + AST 只读沙箱 + 凭据加密密柜（TypeScript） |
+| [**graphharbor**](https://github.com/ljxpython/graphharbor) | 生产级 LangGraph Agent Server，PostgreSQL 状态持久化 + Redis 分布式 Worker |
+| [**rag-anything-use**](https://github.com/ljxpython/rag-anything-use) | RAG-Anything 封装与工程实践 |
+| [**langgraph_teach**](https://github.com/ljxpython/langgraph_teach) | LangGraph 系统性学习笔记与实战 |
 
 #### 📚 学习模板（用 AI 学习 AI）
 
-| 项目 | 描述 | ⭐ |
-|---|---|---|
-| [**ai-study-template**](https://github.com/ljxpython/ai-study-template) | 通用技术研学模板，内置 AI 私教，支持源码深潜、框架啃透 | 0 ★ |
-| [**knowledge-site-template**](https://github.com/ljxpython/knowledge-site-template) | Markdown-first Astro 知识站模板，聚焦内容输出 | 0 ★ |
-| [**knowledge-deck-template**](https://github.com/ljxpython/knowledge-deck-template) | 知识卡片模板，结构化整理技术笔记 | 0 ★ |
+| 项目 | 描述 |
+|---|---|
+| [**ai-study-template**](https://github.com/ljxpython/ai-study-template) | 通用技术研学模板，内置 AI 私教，支持源码深潜、框架啃透 |
+| [**knowledge-site-template**](https://github.com/ljxpython/knowledge-site-template) | Markdown-first Astro 知识站模板，聚焦内容输出 |
+| [**knowledge-deck-template**](https://github.com/ljxpython/knowledge-deck-template) | 知识卡片模板，结构化整理技术笔记 |
 
 #### 🧪 测试工程实践
 
-| 项目 | 描述 | ⭐ |
-|---|---|---|
-| [**pytest_framework**](https://github.com/ljxpython/pytest_framework) | 企业级自动化测试框架 | 22 ★ |
-| [**locust_framework**](https://github.com/ljxpython/locust_framework) | 基础性能压测框架 | 16 ★ |
-| [**test_platform**](https://github.com/ljxpython/test_platform) | 测试开发平台（前端 TypeScript） | 13 ★ |
-| [**flask_platform_srv**](https://github.com/ljxpython/flask_platform_srv) | 测试平台后端服务（Flask） | 11 ★ |
+| 项目 | 描述 |
+|---|---|
+| [**pytest_framework**](https://github.com/ljxpython/pytest_framework) | 企业级自动化测试框架 |
+| [**locust_framework**](https://github.com/ljxpython/locust_framework) | 基础性能压测框架 |
+| [**test_platform**](https://github.com/ljxpython/test_platform) | 测试开发平台（前端 TypeScript） |
+| [**flask_platform_srv**](https://github.com/ljxpython/flask_platform_srv) | 测试平台后端服务（Flask） |
 
 ---
 
@@ -106,10 +106,6 @@
 
 ### 📊 数据卡片
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ljxpython&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljxpython&layout=compact" />
-</p>
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user=ljxpython" />
 </p>

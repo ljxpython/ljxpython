@@ -60,31 +60,31 @@ I believe in making complex systems simple. My background is in QA engineering, 
 
 #### 🤖 AI Engineering
 
-| Project | Description | ⭐ |
-|---|---|---|
-| [**ai-agent-platform**](https://github.com/ljxpython/ai-agent-platform) | Enterprise AI Agent platform built on the LangGraph ecosystem. Includes: control plane (auth, dual-layer RBAC, multi-tenant isolation, audit logging) + Agent execution engine (LangGraph state machine, MCP/Skills assembly, HITL) + Vue 3 admin console + LightRAG knowledge hub + MLflow full-chain tracing. Ships with production-grade defenses: context blowup protection, token budget hardening, resilient MCP loading. Fork it as your own enterprise Agent platform foundation. | **155 ★** |
-| [**LightRAG**](https://github.com/ljxpython/LightRAG) | LightRAG (EMNLP2025) local deployment and engineering practice — graph-based knowledge retrieval | 0 ★ |
-| [**datapulse-assistant**](https://github.com/ljxpython/datapulse-assistant) | Enterprise interactive BI canvas — Text-to-SQL + AST read-only sandbox + encrypted credential vault (TypeScript) | 0 ★ |
-| [**graphharbor**](https://github.com/ljxpython/graphharbor) | Production-grade LangGraph Agent Server — PostgreSQL checkpoints + Redis distributed workers | 0 ★ |
-| [**rag-anything-use**](https://github.com/ljxpython/rag-anything-use) | RAG-Anything wrapper and engineering practice | 2 ★ |
-| [**langgraph_teach**](https://github.com/ljxpython/langgraph_teach) | Systematic LangGraph learning notes and hands-on practice | 7 ★ |
+| Project | Description |
+|---|---|
+| [**ai-agent-platform**](https://github.com/ljxpython/ai-agent-platform) | Enterprise AI Agent platform (155 ★) built on the LangGraph ecosystem. Includes: control plane (auth, dual-layer RBAC, multi-tenant isolation, audit logging) + Agent execution engine (LangGraph state machine, MCP/Skills assembly, HITL) + Vue 3 admin console + LightRAG knowledge hub + MLflow full-chain tracing. Ships with production-grade defenses: context blowup protection, token budget hardening, resilient MCP loading. Fork it as your own enterprise Agent platform foundation. |
+| [**LightRAG**](https://github.com/ljxpython/LightRAG) | LightRAG (EMNLP2025) local deployment and engineering practice — graph-based knowledge retrieval |
+| [**datapulse-assistant**](https://github.com/ljxpython/datapulse-assistant) | Enterprise interactive BI canvas — Text-to-SQL + AST read-only sandbox + encrypted credential vault (TypeScript) |
+| [**graphharbor**](https://github.com/ljxpython/graphharbor) | Production-grade LangGraph Agent Server — PostgreSQL checkpoints + Redis distributed workers |
+| [**rag-anything-use**](https://github.com/ljxpython/rag-anything-use) | RAG-Anything wrapper and engineering practice |
+| [**langgraph_teach**](https://github.com/ljxpython/langgraph_teach) | Systematic LangGraph learning notes and hands-on practice |
 
 #### 📚 Learning Templates (Using AI to Learn AI)
 
-| Project | Description | ⭐ |
-|---|---|---|
-| [**ai-study-template**](https://github.com/ljxpython/ai-study-template) | General-purpose tech study template with built-in AI tutor — source code deep-dive and framework study | 0 ★ |
-| [**knowledge-site-template**](https://github.com/ljxpython/knowledge-site-template) | Markdown-first Astro template for focused knowledge sites | 0 ★ |
-| [**knowledge-deck-template**](https://github.com/ljxpython/knowledge-deck-template) | Knowledge card template for structured technical note-taking | 0 ★ |
+| Project | Description |
+|---|---|
+| [**ai-study-template**](https://github.com/ljxpython/ai-study-template) | General-purpose tech study template with built-in AI tutor — source code deep-dive and framework study |
+| [**knowledge-site-template**](https://github.com/ljxpython/knowledge-site-template) | Markdown-first Astro template for focused knowledge sites |
+| [**knowledge-deck-template**](https://github.com/ljxpython/knowledge-deck-template) | Knowledge card template for structured technical note-taking |
 
 #### 🧪 QA Engineering
 
-| Project | Description | ⭐ |
-|---|---|---|
-| [**pytest_framework**](https://github.com/ljxpython/pytest_framework) | Enterprise-grade automated testing framework | 22 ★ |
-| [**locust_framework**](https://github.com/ljxpython/locust_framework) | Performance & load testing framework | 16 ★ |
-| [**test_platform**](https://github.com/ljxpython/test_platform) | Test management platform (TypeScript frontend) | 13 ★ |
-| [**flask_platform_srv**](https://github.com/ljxpython/flask_platform_srv) | Test platform backend service (Flask) | 11 ★ |
+| Project | Description |
+|---|---|
+| [**pytest_framework**](https://github.com/ljxpython/pytest_framework) | Enterprise-grade automated testing framework |
+| [**locust_framework**](https://github.com/ljxpython/locust_framework) | Performance & load testing framework |
+| [**test_platform**](https://github.com/ljxpython/test_platform) | Test management platform (TypeScript frontend) |
+| [**flask_platform_srv**](https://github.com/ljxpython/flask_platform_srv) | Test platform backend service (Flask) |
 
 ---
 
@@ -105,10 +105,6 @@ Before focusing on AI, I spent years in QA engineering — building automation f
 
 ### 📊 Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ljxpython&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljxpython&layout=compact" />
-</p>
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user=ljxpython" />
 </p>
