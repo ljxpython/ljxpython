@@ -115,8 +115,8 @@
 ### 🆕 最近动态
 <!--START_SECTION:activity-->
 - [ai-agent-platform](https://github.com/ljxpython/ai-agent-platform) — 企业级 AI Agent 平台底座，基于 LangGraph 生态体系二次开发，开箱即用（FastAPI + Vue 3 + MCP + Skills + 沙箱工作区 + 长期记忆）
-- [LightRAG](https://github.com/ljxpython/LightRAG) — [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [ljxpython](https://github.com/ljxpython/ljxpython) — 
+- [LightRAG](https://github.com/ljxpython/LightRAG) — [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [ai-learn](https://github.com/ljxpython/ai-learn) — 
 - [gpt-image-gen](https://github.com/ljxpython/gpt-image-gen) — 
 <!--END_SECTION:activity-->
